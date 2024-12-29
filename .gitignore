@@ -173,3 +173,6 @@ cython_debug/
 # VS Code
 launch.json
 settings.json
+
+# Advent of Code
+input.txt
