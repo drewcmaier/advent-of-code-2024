@@ -45,29 +45,51 @@ def get_cycles_of_length(graph: Graph, length: int):
 
 
 def find_chief(cycles: set[frozenset[Node]]):
-    has_t = set()
+    has_t = 0
     for cycle in cycles:
         for n in cycle:
             if n.value.startswith("t"):
-                has_t.add(cycle)
+                has_t += 1
                 break
     return has_t
 
 
-def cycle_str(cycle: set[Node]):
+def password_str(cycle: set[Node]):
     return ",".join(sorted([v.value for v in cycle]))
 
 
-def part1():
-    adjacencies = parse_input("test.txt")
+def part1(dbg: bool = False):
+    adjacencies = parse_input("input.txt")
     graph = build_graph(adjacencies)
     cycles = get_cycles_of_length(graph, 3)
 
-    s = "\n".join([",".join([v.value for v in c]) for c in cycles])
-    print(s)
+    if dbg:
+        print("\n".join(sorted(password_str(c) for c in cycles)))
 
-    has_t = find_chief(cycles)
-    print(sorted([cycle_str(c) for c in has_t]))
+    return find_chief(cycles)
 
 
-part1()
+def bron_kerbosch(
+    R: set[Node], P: set[Node], X: set[Node], graph: Graph, cliques: list[set]
+):
+    if not P and not X:
+        cliques.append(R)
+        return
+
+    for node in list(P):
+        bron_kerbosch(R | {node}, P & node.children, X & node.children, graph, cliques)
+        P.remove(node)
+        X.add(node)
+
+
+def find_largest_clique(graph: Graph):
+    cliques = []
+    bron_kerbosch(set(), set(graph.values()), set(), graph, cliques)
+    return max(cliques, key=len) if cliques else set()
+
+
+def part2():
+    adjacencies = parse_input("input.txt")
+    graph = build_graph(adjacencies)
+    largest_clique = find_largest_clique(graph)
+    return password_str(largest_clique)
