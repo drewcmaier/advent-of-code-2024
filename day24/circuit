@@ -1,0 +1,1157 @@
+digraph RippleCarryAdder {
+	ordering=in rankdir=LR splines=false
+	fbd [label="fbd: 0" shape=circle]
+	rvn [label="rvn: 0" shape=circle]
+	dtt [label="dtt: 0" shape=circle]
+	qgt [label="qgt: 0" shape=circle]
+	bjg [label="bjg: 0" shape=circle]
+	pws [label="pws: 0" shape=circle]
+	gbn [label="gbn: 0" shape=circle]
+	tvb [label="tvb: 0" shape=circle]
+	x39 [label="x39: 0" shape=circle]
+	y39 [label="y39: 0" shape=circle]
+	prv [label="prv: 0" shape=circle]
+	vvb [label="vvb: 0" shape=circle]
+	fvw [label="fvw: 0" shape=circle]
+	ndj [label="ndj: 0" shape=circle]
+	x23 [label="x23: 0" shape=circle]
+	y23 [label="y23: 0" shape=circle]
+	x16 [label="x16: 0" shape=circle]
+	y16 [label="y16: 0" shape=circle]
+	psj [label="psj: 0" shape=circle]
+	rqp [label="rqp: 0" shape=circle]
+	btd [label="btd: 1" shape=circle]
+	vmj [label="vmj: 0" shape=circle]
+	x35 [label="x35: 0" shape=circle]
+	y35 [label="y35: 0" shape=circle]
+	gfc [label="gfc: 1" shape=circle]
+	hsj [label="hsj: 1" shape=circle]
+	htp [label="htp: 0" shape=circle]
+	ntg [label="ntg: 0" shape=circle]
+	dwq [label="dwq: 0" shape=circle]
+	tkd [label="tkd: 0" shape=circle]
+	grf [label="grf: 0" shape=circle]
+	wjv [label="wjv: 1" shape=circle]
+	x18 [label="x18: 0" shape=circle]
+	y18 [label="y18: 0" shape=circle]
+	x07 [label="x07: 0" shape=circle]
+	y07 [label="y07: 0" shape=circle]
+	x09 [label="x09: 0" shape=circle]
+	y09 [label="y09: 0" shape=circle]
+	bqc [label="bqc: 0" shape=circle]
+	mdd [label="mdd: 0" shape=circle]
+	ddf [label="ddf: 0" shape=circle]
+	pvc [label="pvc: 0" shape=circle]
+	x29 [label="x29: 0" shape=circle]
+	y29 [label="y29: 0" shape=circle]
+	x41 [label="x41: 0" shape=circle]
+	y41 [label="y41: 0" shape=circle]
+	mhf [label="mhf: 0" shape=circle]
+	phs [label="phs: 0" shape=circle]
+	x38 [label="x38: 0" shape=circle]
+	y38 [label="y38: 0" shape=circle]
+	x30 [label="x30: 0" shape=circle]
+	y30 [label="y30: 0" shape=circle]
+	bqk [label="bqk: 0" shape=circle]
+	hwk [label="hwk: 0" shape=circle]
+	x33 [label="x33: 0" shape=circle]
+	y33 [label="y33: 0" shape=circle]
+	mdb [label="mdb: 0" shape=circle]
+	sbs [label="sbs: 0" shape=circle]
+	x01 [label="x01: 1" shape=circle]
+	y01 [label="y01: 0" shape=circle]
+	x40 [label="x40: 0" shape=circle]
+	y40 [label="y40: 0" shape=circle]
+	x17 [label="x17: 0" shape=circle]
+	y17 [label="y17: 0" shape=circle]
+	bsk [label="bsk: 0" shape=circle]
+	pjd [label="pjd: 0" shape=circle]
+	nqg [label="nqg: 0" shape=circle]
+	vbm [label="vbm: 0" shape=circle]
+	hwd [label="hwd: 0" shape=circle]
+	skg [label="skg: 0" shape=circle]
+	x04 [label="x04: 1" shape=circle]
+	y04 [label="y04: 0" shape=circle]
+	x25 [label="x25: 0" shape=circle]
+	y25 [label="y25: 0" shape=circle]
+	bct [label="bct: 0" shape=circle]
+	vvt [label="vvt: 0" shape=circle]
+	mkq [label="mkq: 0" shape=circle]
+	vmf [label="vmf: 0" shape=circle]
+	ftr [label="ftr: 0" shape=circle]
+	mcw [label="mcw: 0" shape=circle]
+	kjq [label="kjq: 0" shape=circle]
+	qcq [label="qcq: 0" shape=circle]
+	x22 [label="x22: 0" shape=circle]
+	y22 [label="y22: 0" shape=circle]
+	dwf [label="dwf: 0" shape=circle]
+	kjd [label="kjd: 0" shape=circle]
+	x14 [label="x14: 0" shape=circle]
+	y14 [label="y14: 0" shape=circle]
+	x11 [label="x11: 0" shape=circle]
+	y11 [label="y11: 0" shape=circle]
+	cjb [label="cjb: 0" shape=circle]
+	kqr [label="kqr: 0" shape=circle]
+	x08 [label="x08: 0" shape=circle]
+	y08 [label="y08: 0" shape=circle]
+	fbm [label="fbm: 0" shape=circle]
+	hgq [label="hgq: 0" shape=circle]
+	kwm [label="kwm: 1" shape=circle]
+	rjb [label="rjb: 0" shape=circle]
+	shr [label="shr: 0" shape=circle]
+	wmg [label="wmg: 0" shape=circle]
+	nct [label="nct: 0" shape=circle]
+	wcj [label="wcj: 0" shape=circle]
+	x06 [label="x06: 0" shape=circle]
+	y06 [label="y06: 0" shape=circle]
+	x05 [label="x05: 1" shape=circle]
+	y05 [label="y05: 0" shape=circle]
+	chd [label="chd: 1" shape=circle]
+	rqd [label="rqd: 0" shape=circle]
+	fqs [label="fqs: 0" shape=circle]
+	wpr [label="wpr: 0" shape=circle]
+	x28 [label="x28: 0" shape=circle]
+	y28 [label="y28: 0" shape=circle]
+	x37 [label="x37: 0" shape=circle]
+	y37 [label="y37: 0" shape=circle]
+	gnt [label="gnt: 0" shape=circle]
+	gsc [label="gsc: 0" shape=circle]
+	x03 [label="x03: 1" shape=circle]
+	y03 [label="y03: 0" shape=circle]
+	x34 [label="x34: 0" shape=circle]
+	y34 [label="y34: 0" shape=circle]
+	fvv [label="fvv: 0" shape=circle]
+	jjg [label="jjg: 0" shape=circle]
+	x10 [label="x10: 0" shape=circle]
+	y10 [label="y10: 0" shape=circle]
+	x24 [label="x24: 0" shape=circle]
+	y24 [label="y24: 0" shape=circle]
+	dnn [label="dnn: 0" shape=circle]
+	hrd [label="hrd: 0" shape=circle]
+	dmf [label="dmf: 0" shape=circle]
+	gcw [label="gcw: 0" shape=circle]
+	x02 [label="x02: 1" shape=circle]
+	y02 [label="y02: 0" shape=circle]
+	x26 [label="x26: 0" shape=circle]
+	y26 [label="y26: 0" shape=circle]
+	djh [label="djh: 0" shape=circle]
+	gjb [label="gjb: 0" shape=circle]
+	x13 [label="x13: 0" shape=circle]
+	y13 [label="y13: 0" shape=circle]
+	mtd [label="mtd: 1" shape=circle]
+	ppj [label="ppj: 1" shape=circle]
+	nhj [label="nhj: 0" shape=circle]
+	rrr [label="rrr: 0" shape=circle]
+	knv [label="knv: 0" shape=circle]
+	tpj [label="tpj: 0" shape=circle]
+	x27 [label="x27: 0" shape=circle]
+	y27 [label="y27: 0" shape=circle]
+	ffh [label="ffh: 0" shape=circle]
+	gdw [label="gdw: 0" shape=circle]
+	kvm [label="kvm: 0" shape=circle]
+	qcv [label="qcv: 0" shape=circle]
+	x42 [label="x42: 0" shape=circle]
+	y42 [label="y42: 0" shape=circle]
+	jpq [label="jpq: 1" shape=circle]
+	wjg [label="wjg: 1" shape=circle]
+	jrk [label="jrk: 0" shape=circle]
+	rww [label="rww: 0" shape=circle]
+	fsf [label="fsf: 0" shape=circle]
+	nwg [label="nwg: 0" shape=circle]
+	pfb [label="pfb: 0" shape=circle]
+	spm [label="spm: 0" shape=circle]
+	fmd [label="fmd: 0" shape=circle]
+	hjc [label="hjc: 0" shape=circle]
+	bnv [label="bnv: 0" shape=circle]
+	dqr [label="dqr: 0" shape=circle]
+	x20 [label="x20: 0" shape=circle]
+	y20 [label="y20: 0" shape=circle]
+	bff [label="bff: 0" shape=circle]
+	hsh [label="hsh: 0" shape=circle]
+	x19 [label="x19: 0" shape=circle]
+	y19 [label="y19: 0" shape=circle]
+	bmg [label="bmg: 0" shape=circle]
+	thq [label="thq: 0" shape=circle]
+	jdw [label="jdw: 0" shape=circle]
+	sjg [label="sjg: 0" shape=circle]
+	x32 [label="x32: 0" shape=circle]
+	y32 [label="y32: 0" shape=circle]
+	krc [label="krc: 0" shape=circle]
+	nwp [label="nwp: 0" shape=circle]
+	bfv [label="bfv: 0" shape=circle]
+	cpt [label="cpt: 0" shape=circle]
+	bms [label="bms: 0" shape=circle]
+	tdg [label="tdg: 0" shape=circle]
+	dqq [label="dqq: 0" shape=circle]
+	gkj [label="gkj: 0" shape=circle]
+	nfh [label="nfh: 0" shape=circle]
+	rtt [label="rtt: 0" shape=circle]
+	x36 [label="x36: 0" shape=circle]
+	y36 [label="y36: 0" shape=circle]
+	rjn [label="rjn: 0" shape=circle]
+	svf [label="svf: 0" shape=circle]
+	x44 [label="x44: 0" shape=circle]
+	y44 [label="y44: 0" shape=circle]
+	fdq [label="fdq: 0" shape=circle]
+	rrt [label="rrt: 0" shape=circle]
+	cbr [label="cbr: 0" shape=circle]
+	rmj [label="rmj: 0" shape=circle]
+	x00 [label="x00: 1" shape=circle]
+	y00 [label="y00: 1" shape=circle]
+	nqs [label="nqs: 0" shape=circle]
+	vsm [label="vsm: 0" shape=circle]
+	dtp [label="dtp: 0" shape=circle]
+	mvd [label="mvd: 0" shape=circle]
+	nhq [label="nhq: 0" shape=circle]
+	vjj [label="vjj: 0" shape=circle]
+	dbj [label="dbj: 0" shape=circle]
+	tmt [label="tmt: 0" shape=circle]
+	ctn [label="ctn: 0" shape=circle]
+	pvd [label="pvd: 0" shape=circle]
+	x31 [label="x31: 0" shape=circle]
+	y31 [label="y31: 0" shape=circle]
+	fkw [label="fkw: 0" shape=circle]
+	gpc [label="gpc: 0" shape=circle]
+	jqn [label="jqn: 0" shape=circle]
+	rwg [label="rwg: 1" shape=circle]
+	jvp [label="jvp: 0" shape=circle]
+	smc [label="smc: 0" shape=circle]
+	x21 [label="x21: 0" shape=circle]
+	y21 [label="y21: 0" shape=circle]
+	x12 [label="x12: 0" shape=circle]
+	y12 [label="y12: 0" shape=circle]
+	bqv [label="bqv: 1" shape=circle]
+	fdk [label="fdk: 1" shape=circle]
+	bcc [label="bcc: 0" shape=circle]
+	rnw [label="rnw: 0" shape=circle]
+	cbs [label="cbs: 0" shape=circle]
+	pfr [label="pfr: 0" shape=circle]
+	mqc [label="mqc: 0" shape=circle]
+	pcq [label="pcq: 0" shape=circle]
+	npn [label="npn: 0" shape=circle]
+	vrp [label="vrp: 0" shape=circle]
+	x15 [label="x15: 0" shape=circle]
+	y15 [label="y15: 0" shape=circle]
+	x43 [label="x43: 0" shape=circle]
+	y43 [label="y43: 0" shape=circle]
+	dhg [label="dhg: 0" shape=circle]
+	jqg [label="jqg: 0" shape=circle]
+	kvn [label="kvn: 0" shape=circle]
+	wjp [label="wjp: 0" shape=circle]
+	fsw [label="fsw: 0" shape=circle]
+	svb [label="svb: 0" shape=circle]
+	jpb [label="jpb: 0" shape=circle]
+	qjc [label="qjc: 0" shape=circle]
+	ckm [label="ckm: 0" shape=circle]
+	hrn [label="hrn: 0" shape=circle]
+	jqj [label="jqj: 0" shape=circle]
+	qvr [label="qvr: 0" shape=circle]
+	nwq [label="nwq: 0" shape=circle]
+	tvh [label="tvh: 0" shape=circle]
+	vdd [label="vdd: 0" shape=circle]
+	wfh [label="wfh: 0" shape=circle]
+	msm [label="msm: 0" shape=circle]
+	nrr [label="nrr: 0" shape=circle]
+	smh [label="smh: 0" shape=circle]
+	whh [label="whh: 0" shape=circle]
+	dsm [label="dsm: 0" shape=circle]
+	jrp [label="jrp: 1" shape=circle]
+	hgj [label="hgj: 0" shape=circle]
+	vds [label="vds: 0" shape=circle]
+	rpv [label="rpv: 1" shape=circle]
+	wpq [label="wpq: 1" shape=circle]
+	hmw [label="hmw: 0" shape=circle]
+	vmq [label="vmq: 0" shape=circle]
+	dcn [label="dcn: 0" shape=circle]
+	fgg [label="fgg: 0" shape=circle]
+	qmh [label="qmh: 0" shape=circle]
+	sbd [label="sbd: 0" shape=circle]
+	bcc_OR [label=OR color=darkblue shape=invtriangle]
+	fbd -> bcc_OR
+	rvn -> bcc_OR
+	bcc_OR -> bcc [label=0]
+	bct_AND [label=AND color=chartreuse4 shape=triangle]
+	dtt -> bct_AND
+	qgt -> bct_AND
+	bct_AND -> bct [label=0]
+	bff_OR [label=OR color=darkblue shape=invtriangle]
+	bjg -> bff_OR
+	pws -> bff_OR
+	bff_OR -> bff [label=0]
+	bfv_OR [label=OR color=darkblue shape=invtriangle]
+	gbn -> bfv_OR
+	tvb -> bfv_OR
+	bfv_OR -> bfv [label=0]
+	bjg_AND [label=AND color=chartreuse4 shape=triangle]
+	x39 -> bjg_AND
+	y39 -> bjg_AND
+	bjg_AND -> bjg [label=0]
+	bmg_OR [label=OR color=darkblue shape=invtriangle]
+	prv -> bmg_OR
+	vvb -> bmg_OR
+	bmg_OR -> bmg [label=0]
+	bms_AND [label=AND color=chartreuse4 shape=triangle]
+	fvw -> bms_AND
+	ndj -> bms_AND
+	bms_AND -> bms [label=0]
+	bnv_XOR [label=XOR color=coral1 shape=doublecircle]
+	x23 -> bnv_XOR
+	y23 -> bnv_XOR
+	bnv_XOR -> bnv [label=0]
+	bqc_XOR [label=XOR color=coral1 shape=doublecircle]
+	x16 -> bqc_XOR
+	y16 -> bqc_XOR
+	bqc_XOR -> bqc [label=0]
+	bqk_AND [label=AND color=chartreuse4 shape=triangle]
+	psj -> bqk_AND
+	rqp -> bqk_AND
+	bqk_AND -> bqk [label=0]
+	bqv_OR [label=OR color=darkblue shape=invtriangle]
+	btd -> bqv_OR
+	vmj -> bqv_OR
+	bqv_OR -> bqv [label=1]
+	bsk_XOR [label=XOR color=coral1 shape=doublecircle]
+	x35 -> bsk_XOR
+	y35 -> bsk_XOR
+	bsk_XOR -> bsk [label=0]
+	btd_AND [label=AND color=chartreuse4 shape=triangle]
+	gfc -> btd_AND
+	hsj -> btd_AND
+	btd_AND -> btd [label=1]
+	cbr_AND [label=AND color=chartreuse4 shape=triangle]
+	htp -> cbr_AND
+	ntg -> cbr_AND
+	cbr_AND -> cbr [label=0]
+	cbs_OR [label=OR color=darkblue shape=invtriangle]
+	dwq -> cbs_OR
+	tkd -> cbs_OR
+	cbs_OR -> cbs [label=0]
+	chd_OR [label=OR color=darkblue shape=invtriangle]
+	grf -> chd_OR
+	wjv -> chd_OR
+	chd_OR -> chd [label=1]
+	cjb_AND [label=AND color=chartreuse4 shape=triangle]
+	x18 -> cjb_AND
+	y18 -> cjb_AND
+	cjb_AND -> cjb [label=0]
+	ckm_XOR [label=XOR color=coral1 shape=doublecircle]
+	x07 -> ckm_XOR
+	y07 -> ckm_XOR
+	ckm_XOR -> ckm [label=0]
+	cpt_XOR [label=XOR color=coral1 shape=doublecircle]
+	x09 -> cpt_XOR
+	y09 -> cpt_XOR
+	cpt_XOR -> cpt [label=0]
+	ctn_AND [label=AND color=chartreuse4 shape=triangle]
+	bqc -> ctn_AND
+	mdd -> ctn_AND
+	ctn_AND -> ctn [label=0]
+	dbj_AND [label=AND color=chartreuse4 shape=triangle]
+	ddf -> dbj_AND
+	pvc -> dbj_AND
+	dbj_AND -> dbj [label=0]
+	dcn_XOR [label=XOR color=coral1 shape=doublecircle]
+	x29 -> dcn_XOR
+	y29 -> dcn_XOR
+	dcn_XOR -> dcn [label=0]
+	ddf_XOR [label=XOR color=coral1 shape=doublecircle]
+	x41 -> ddf_XOR
+	y41 -> ddf_XOR
+	ddf_XOR -> ddf [label=0]
+	dhg_AND [label=AND color=chartreuse4 shape=triangle]
+	mhf -> dhg_AND
+	phs -> dhg_AND
+	dhg_AND -> dhg [label=0]
+	djh_XOR [label=XOR color=coral1 shape=doublecircle]
+	x38 -> djh_XOR
+	y38 -> djh_XOR
+	djh_XOR -> djh [label=0]
+	dmf_AND [label=AND color=chartreuse4 shape=triangle]
+	x30 -> dmf_AND
+	y30 -> dmf_AND
+	dmf_AND -> dmf [label=0]
+	dnn_OR [label=OR color=darkblue shape=invtriangle]
+	bqk -> dnn_OR
+	hwk -> dnn_OR
+	dnn_OR -> dnn [label=0]
+	dqq_AND [label=AND color=chartreuse4 shape=triangle]
+	x33 -> dqq_AND
+	y33 -> dqq_AND
+	dqq_AND -> dqq [label=0]
+	dqr_OR [label=OR color=darkblue shape=invtriangle]
+	mdb -> dqr_OR
+	sbs -> dqr_OR
+	dqr_OR -> dqr [label=0]
+	dsm_AND [label=AND color=chartreuse4 shape=triangle]
+	x01 -> dsm_AND
+	y01 -> dsm_AND
+	dsm_AND -> dsm [label=0]
+	dtp_AND [label=AND color=chartreuse4 shape=triangle]
+	x40 -> dtp_AND
+	y40 -> dtp_AND
+	dtp_AND -> dtp [label=0]
+	dtt_XOR [label=XOR color=coral1 shape=doublecircle]
+	x17 -> dtt_XOR
+	y17 -> dtt_XOR
+	dtt_XOR -> dtt [label=0]
+	dwf_AND [label=AND color=chartreuse4 shape=triangle]
+	bsk -> dwf_AND
+	pjd -> dwf_AND
+	dwf_AND -> dwf [label=0]
+	dwq_AND [label=AND color=chartreuse4 shape=triangle]
+	nqg -> dwq_AND
+	vbm -> dwq_AND
+	dwq_AND -> dwq [label=0]
+	fbd_AND [label=AND color=chartreuse4 shape=triangle]
+	hwd -> fbd_AND
+	skg -> fbd_AND
+	fbd_AND -> fbd [label=0]
+	fbm_XOR [label=XOR color=coral1 shape=doublecircle]
+	x30 -> fbm_XOR
+	y30 -> fbm_XOR
+	fbm_XOR -> fbm [label=0]
+	fdk_XOR [label=XOR color=coral1 shape=doublecircle]
+	x04 -> fdk_XOR
+	y04 -> fdk_XOR
+	fdk_XOR -> fdk [label=1]
+	fdq_AND [label=AND color=chartreuse4 shape=triangle]
+	x25 -> fdq_AND
+	y25 -> fdq_AND
+	fdq_AND -> fdq [label=0]
+	ffh_OR [label=OR color=darkblue shape=invtriangle]
+	bct -> ffh_OR
+	vvt -> ffh_OR
+	ffh_OR -> ffh [label=0]
+	fgg_OR [label=OR color=darkblue shape=invtriangle]
+	mkq -> fgg_OR
+	vmf -> fgg_OR
+	fgg_OR -> fgg [label=0]
+	fkw_AND [label=AND color=chartreuse4 shape=triangle]
+	ftr -> fkw_AND
+	mcw -> fkw_AND
+	fkw_AND -> fkw [label=0]
+	fmd_OR [label=OR color=darkblue shape=invtriangle]
+	kjq -> fmd_OR
+	qcq -> fmd_OR
+	fmd_OR -> fmd [label=0]
+	fqs_AND [label=AND color=chartreuse4 shape=triangle]
+	x29 -> fqs_AND
+	y29 -> fqs_AND
+	fqs_AND -> fqs [label=0]
+	fsf_XOR [label=XOR color=coral1 shape=doublecircle]
+	x22 -> fsf_XOR
+	y22 -> fsf_XOR
+	fsf_XOR -> fsf [label=0]
+	fsw_OR [label=OR color=darkblue shape=invtriangle]
+	dwf -> fsw_OR
+	kjd -> fsw_OR
+	fsw_OR -> fsw [label=0]
+	ftr_XOR [label=XOR color=coral1 shape=doublecircle]
+	x14 -> ftr_XOR
+	y14 -> ftr_XOR
+	ftr_XOR -> ftr [label=0]
+	fvv_AND [label=AND color=chartreuse4 shape=triangle]
+	x11 -> fvv_AND
+	y11 -> fvv_AND
+	fvv_AND -> fvv [label=0]
+	fvw_OR [label=OR color=darkblue shape=invtriangle]
+	cjb -> fvw_OR
+	kqr -> fvw_OR
+	fvw_OR -> fvw [label=0]
+	gbn_AND [label=AND color=chartreuse4 shape=triangle]
+	x08 -> gbn_AND
+	y08 -> gbn_AND
+	gbn_AND -> gbn [label=0]
+	gcw_AND [label=AND color=chartreuse4 shape=triangle]
+	fbm -> gcw_AND
+	hgq -> gcw_AND
+	gcw_AND -> gcw [label=0]
+	gdw_XOR [label=XOR color=coral1 shape=doublecircle]
+	x18 -> gdw_XOR
+	y18 -> gdw_XOR
+	gdw_XOR -> gdw [label=0]
+	gfc_OR [label=OR color=darkblue shape=invtriangle]
+	kwm -> gfc_OR
+	rjb -> gfc_OR
+	gfc_OR -> gfc [label=1]
+	gjb_OR [label=OR color=darkblue shape=invtriangle]
+	shr -> gjb_OR
+	wmg -> gjb_OR
+	gjb_OR -> gjb [label=0]
+	gkj_AND [label=AND color=chartreuse4 shape=triangle]
+	nct -> gkj_AND
+	wcj -> gkj_AND
+	gkj_AND -> gkj [label=0]
+	gnt_AND [label=AND color=chartreuse4 shape=triangle]
+	x06 -> gnt_AND
+	y06 -> gnt_AND
+	gnt_AND -> gnt [label=0]
+	gpc_AND [label=AND color=chartreuse4 shape=triangle]
+	x14 -> gpc_AND
+	y14 -> gpc_AND
+	gpc_AND -> gpc [label=0]
+	grf_AND [label=AND color=chartreuse4 shape=triangle]
+	x05 -> grf_AND
+	y05 -> grf_AND
+	grf_AND -> grf [label=0]
+	gsc_AND [label=AND color=chartreuse4 shape=triangle]
+	chd -> gsc_AND
+	rqd -> gsc_AND
+	gsc_AND -> gsc [label=0]
+	hgj_AND [label=AND color=chartreuse4 shape=triangle]
+	x07 -> hgj_AND
+	y07 -> hgj_AND
+	hgj_AND -> hgj [label=0]
+	hgq_OR [label=OR color=darkblue shape=invtriangle]
+	fqs -> hgq_OR
+	wpr -> hgq_OR
+	hgq_OR -> hgq [label=0]
+	hjc_XOR [label=XOR color=coral1 shape=doublecircle]
+	x28 -> hjc_XOR
+	y28 -> hjc_XOR
+	hjc_XOR -> hjc [label=0]
+	hmw_XOR [label=XOR color=coral1 shape=doublecircle]
+	x37 -> hmw_XOR
+	y37 -> hmw_XOR
+	hmw_XOR -> hmw [label=0]
+	hrd_XOR [label=XOR color=coral1 shape=doublecircle]
+	x11 -> hrd_XOR
+	y11 -> hrd_XOR
+	hrd_XOR -> hrd [label=0]
+	hrn_OR [label=OR color=darkblue shape=invtriangle]
+	gnt -> hrn_OR
+	gsc -> hrn_OR
+	hrn_OR -> hrn [label=0]
+	hsh_XOR [label=XOR color=coral1 shape=doublecircle]
+	x40 -> hsh_XOR
+	y40 -> hsh_XOR
+	hsh_XOR -> hsh [label=0]
+	hsj_XOR [label=XOR color=coral1 shape=doublecircle]
+	x03 -> hsj_XOR
+	y03 -> hsj_XOR
+	hsj_XOR -> hsj [label=1]
+	htp_XOR [label=XOR color=coral1 shape=doublecircle]
+	x34 -> htp_XOR
+	y34 -> htp_XOR
+	htp_XOR -> htp [label=0]
+	hwd_OR [label=OR color=darkblue shape=invtriangle]
+	fvv -> hwd_OR
+	jjg -> hwd_OR
+	hwd_OR -> hwd [label=0]
+	hwk_AND [label=AND color=chartreuse4 shape=triangle]
+	x10 -> hwk_AND
+	y10 -> hwk_AND
+	hwk_AND -> hwk [label=0]
+	jdw_XOR [label=XOR color=coral1 shape=doublecircle]
+	x24 -> jdw_XOR
+	y24 -> jdw_XOR
+	jdw_XOR -> jdw [label=0]
+	jjg_AND [label=AND color=chartreuse4 shape=triangle]
+	dnn -> jjg_AND
+	hrd -> jjg_AND
+	jjg_AND -> jjg [label=0]
+	jpb_OR [label=OR color=darkblue shape=invtriangle]
+	dmf -> jpb_OR
+	gcw -> jpb_OR
+	jpb_OR -> jpb [label=0]
+	jpq_XOR [label=XOR color=coral1 shape=doublecircle]
+	x02 -> jpq_XOR
+	y02 -> jpq_XOR
+	jpq_XOR -> jpq [label=1]
+	jqg_AND [label=AND color=chartreuse4 shape=triangle]
+	x26 -> jqg_AND
+	y26 -> jqg_AND
+	jqg_AND -> jqg [label=0]
+	jqj_AND [label=AND color=chartreuse4 shape=triangle]
+	djh -> jqj_AND
+	gjb -> jqj_AND
+	jqj_AND -> jqj [label=0]
+	jqn_AND [label=AND color=chartreuse4 shape=triangle]
+	x04 -> jqn_AND
+	y04 -> jqn_AND
+	jqn_AND -> jqn [label=0]
+	jrk_AND [label=AND color=chartreuse4 shape=triangle]
+	x13 -> jrk_AND
+	y13 -> jrk_AND
+	jrk_AND -> jrk [label=0]
+	jrp_AND [label=AND color=chartreuse4 shape=triangle]
+	mtd -> jrp_AND
+	ppj -> jrp_AND
+	jrp_AND -> jrp [label=1]
+	jvp_OR [label=OR color=darkblue shape=invtriangle]
+	nhj -> jvp_OR
+	rrr -> jvp_OR
+	jvp_OR -> jvp [label=0]
+	kjd_AND [label=AND color=chartreuse4 shape=triangle]
+	x35 -> kjd_AND
+	y35 -> kjd_AND
+	kjd_AND -> kjd [label=0]
+	kjq_AND [label=AND color=chartreuse4 shape=triangle]
+	knv -> kjq_AND
+	tpj -> kjq_AND
+	kjq_AND -> kjq [label=0]
+	knv_XOR [label=XOR color=coral1 shape=doublecircle]
+	x27 -> knv_XOR
+	y27 -> knv_XOR
+	knv_XOR -> knv [label=0]
+	kqr_AND [label=AND color=chartreuse4 shape=triangle]
+	ffh -> kqr_AND
+	gdw -> kqr_AND
+	kqr_AND -> kqr [label=0]
+	krc_AND [label=AND color=chartreuse4 shape=triangle]
+	kvm -> krc_AND
+	qcv -> krc_AND
+	krc_AND -> krc [label=0]
+	kvm_XOR [label=XOR color=coral1 shape=doublecircle]
+	x42 -> kvm_XOR
+	y42 -> kvm_XOR
+	kvm_XOR -> kvm [label=0]
+	kvn_XOR [label=XOR color=coral1 shape=doublecircle]
+	x08 -> kvn_XOR
+	y08 -> kvn_XOR
+	kvn_XOR -> kvn [label=0]
+	kwm_AND [label=AND color=chartreuse4 shape=triangle]
+	jpq -> kwm_AND
+	wjg -> kwm_AND
+	kwm_AND -> kwm [label=1]
+	mcw_OR [label=OR color=darkblue shape=invtriangle]
+	jrk -> mcw_OR
+	rww -> mcw_OR
+	mcw_OR -> mcw [label=0]
+	mdb_AND [label=AND color=chartreuse4 shape=triangle]
+	fsf -> mdb_AND
+	nwg -> mdb_AND
+	mdb_AND -> mdb [label=0]
+	mdd_OR [label=OR color=darkblue shape=invtriangle]
+	pfb -> mdd_OR
+	spm -> mdd_OR
+	mdd_OR -> mdd [label=0]
+	mhf_XOR [label=XOR color=coral1 shape=doublecircle]
+	x26 -> mhf_XOR
+	y26 -> mhf_XOR
+	mhf_XOR -> mhf [label=0]
+	mkq_AND [label=AND color=chartreuse4 shape=triangle]
+	fmd -> mkq_AND
+	hjc -> mkq_AND
+	mkq_AND -> mkq [label=0]
+	mqc_AND [label=AND color=chartreuse4 shape=triangle]
+	bnv -> mqc_AND
+	dqr -> mqc_AND
+	mqc_AND -> mqc [label=0]
+	msm_XOR [label=XOR color=coral1 shape=doublecircle]
+	x20 -> msm_XOR
+	y20 -> msm_XOR
+	msm_XOR -> msm [label=0]
+	mtd_XOR [label=XOR color=coral1 shape=doublecircle]
+	x01 -> mtd_XOR
+	y01 -> mtd_XOR
+	mtd_XOR -> mtd [label=1]
+	mvd_AND [label=AND color=chartreuse4 shape=triangle]
+	bff -> mvd_AND
+	hsh -> mvd_AND
+	mvd_AND -> mvd [label=0]
+	nct_XOR [label=XOR color=coral1 shape=doublecircle]
+	x33 -> nct_XOR
+	y33 -> nct_XOR
+	nct_XOR -> nct [label=0]
+	ndj_XOR [label=XOR color=coral1 shape=doublecircle]
+	x19 -> ndj_XOR
+	y19 -> ndj_XOR
+	ndj_XOR -> ndj [label=0]
+	nfh_AND [label=AND color=chartreuse4 shape=triangle]
+	bmg -> nfh_AND
+	thq -> nfh_AND
+	nfh_AND -> nfh [label=0]
+	nhj_AND [label=AND color=chartreuse4 shape=triangle]
+	jdw -> nhj_AND
+	sjg -> nhj_AND
+	nhj_AND -> nhj [label=0]
+	nhq_XOR [label=XOR color=coral1 shape=doublecircle]
+	x39 -> nhq_XOR
+	y39 -> nhq_XOR
+	nhq_XOR -> nhq [label=0]
+	npn_XOR [label=XOR color=coral1 shape=doublecircle]
+	x32 -> npn_XOR
+	y32 -> npn_XOR
+	npn_XOR -> npn [label=0]
+	nqg_OR [label=OR color=darkblue shape=invtriangle]
+	krc -> nqg_OR
+	nwp -> nqg_OR
+	nqg_OR -> nqg [label=0]
+	nqs_AND [label=AND color=chartreuse4 shape=triangle]
+	bfv -> nqs_AND
+	cpt -> nqs_AND
+	nqs_AND -> nqs [label=0]
+	nrr_OR [label=OR color=darkblue shape=invtriangle]
+	bms -> nrr_OR
+	tdg -> nrr_OR
+	nrr_OR -> nrr [label=0]
+	ntg_OR [label=OR color=darkblue shape=invtriangle]
+	dqq -> ntg_OR
+	gkj -> ntg_OR
+	ntg_OR -> ntg [label=0]
+	nwg_OR [label=OR color=darkblue shape=invtriangle]
+	nfh -> nwg_OR
+	rtt -> nwg_OR
+	nwg_OR -> nwg [label=0]
+	nwp_AND [label=AND color=chartreuse4 shape=triangle]
+	x42 -> nwp_AND
+	y42 -> nwp_AND
+	nwp_AND -> nwp [label=0]
+	nwq_AND [label=AND color=chartreuse4 shape=triangle]
+	x36 -> nwq_AND
+	y36 -> nwq_AND
+	nwq_AND -> nwq [label=0]
+	pcq_AND [label=AND color=chartreuse4 shape=triangle]
+	x23 -> pcq_AND
+	y23 -> pcq_AND
+	pcq_AND -> pcq [label=0]
+	pfb_AND [label=AND color=chartreuse4 shape=triangle]
+	rjn -> pfb_AND
+	svf -> pfb_AND
+	pfb_AND -> pfb [label=0]
+	pfr_XOR [label=XOR color=coral1 shape=doublecircle]
+	x44 -> pfr_XOR
+	y44 -> pfr_XOR
+	pfr_XOR -> pfr [label=0]
+	phs_OR [label=OR color=darkblue shape=invtriangle]
+	fdq -> phs_OR
+	rrt -> phs_OR
+	phs_OR -> phs [label=0]
+	pjd_OR [label=OR color=darkblue shape=invtriangle]
+	cbr -> pjd_OR
+	rmj -> pjd_OR
+	pjd_OR -> pjd [label=0]
+	ppj_AND [label=AND color=chartreuse4 shape=triangle]
+	x00 -> ppj_AND
+	y00 -> ppj_AND
+	ppj_AND -> ppj [label=1]
+	prv_AND [label=AND color=chartreuse4 shape=triangle]
+	x20 -> prv_AND
+	y20 -> prv_AND
+	prv_AND -> prv [label=0]
+	psj_OR [label=OR color=darkblue shape=invtriangle]
+	nqs -> psj_OR
+	vsm -> psj_OR
+	psj_OR -> psj [label=0]
+	pvc_OR [label=OR color=darkblue shape=invtriangle]
+	dtp -> pvc_OR
+	mvd -> pvc_OR
+	pvc_OR -> pvc [label=0]
+	pvd_AND [label=AND color=chartreuse4 shape=triangle]
+	x16 -> pvd_AND
+	y16 -> pvd_AND
+	pvd_AND -> pvd [label=0]
+	pws_AND [label=AND color=chartreuse4 shape=triangle]
+	nhq -> pws_AND
+	vjj -> pws_AND
+	pws_AND -> pws [label=0]
+	qcq_AND [label=AND color=chartreuse4 shape=triangle]
+	x27 -> qcq_AND
+	y27 -> qcq_AND
+	qcq_AND -> qcq [label=0]
+	qcv_OR [label=OR color=darkblue shape=invtriangle]
+	dbj -> qcv_OR
+	tmt -> qcv_OR
+	qcv_OR -> qcv [label=0]
+	qgt_OR [label=OR color=darkblue shape=invtriangle]
+	ctn -> qgt_OR
+	pvd -> qgt_OR
+	qgt_OR -> qgt [label=0]
+	qjc_XOR [label=XOR color=coral1 shape=doublecircle]
+	x31 -> qjc_XOR
+	y31 -> qjc_XOR
+	qjc_XOR -> qjc [label=0]
+	qmh_AND [label=AND color=chartreuse4 shape=triangle]
+	x44 -> qmh_AND
+	y44 -> qmh_AND
+	qmh_AND -> qmh [label=0]
+	qvr_AND [label=AND color=chartreuse4 shape=triangle]
+	x38 -> qvr_AND
+	y38 -> qvr_AND
+	qvr_AND -> qvr [label=0]
+	rjb_AND [label=AND color=chartreuse4 shape=triangle]
+	x02 -> rjb_AND
+	y02 -> rjb_AND
+	rjb_AND -> rjb [label=0]
+	rjn_OR [label=OR color=darkblue shape=invtriangle]
+	fkw -> rjn_OR
+	gpc -> rjn_OR
+	rjn_OR -> rjn [label=0]
+	rmj_AND [label=AND color=chartreuse4 shape=triangle]
+	x34 -> rmj_AND
+	y34 -> rmj_AND
+	rmj_AND -> rmj [label=0]
+	rnw_XOR [label=XOR color=coral1 shape=doublecircle]
+	x13 -> rnw_XOR
+	y13 -> rnw_XOR
+	rnw_XOR -> rnw [label=0]
+	rpv_OR [label=OR color=darkblue shape=invtriangle]
+	jqn -> rpv_OR
+	rwg -> rpv_OR
+	rpv_OR -> rpv [label=1]
+	rqd_XOR [label=XOR color=coral1 shape=doublecircle]
+	x06 -> rqd_XOR
+	y06 -> rqd_XOR
+	rqd_XOR -> rqd [label=0]
+	rqp_XOR [label=XOR color=coral1 shape=doublecircle]
+	x10 -> rqp_XOR
+	y10 -> rqp_XOR
+	rqp_XOR -> rqp [label=0]
+	rrr_AND [label=AND color=chartreuse4 shape=triangle]
+	x24 -> rrr_AND
+	y24 -> rrr_AND
+	rrr_AND -> rrr [label=0]
+	rrt_AND [label=AND color=chartreuse4 shape=triangle]
+	jvp -> rrt_AND
+	smc -> rrt_AND
+	rrt_AND -> rrt [label=0]
+	rtt_AND [label=AND color=chartreuse4 shape=triangle]
+	x21 -> rtt_AND
+	y21 -> rtt_AND
+	rtt_AND -> rtt [label=0]
+	rvn_AND [label=AND color=chartreuse4 shape=triangle]
+	x12 -> rvn_AND
+	y12 -> rvn_AND
+	rvn_AND -> rvn [label=0]
+	rwg_AND [label=AND color=chartreuse4 shape=triangle]
+	bqv -> rwg_AND
+	fdk -> rwg_AND
+	rwg_AND -> rwg [label=1]
+	rww_AND [label=AND color=chartreuse4 shape=triangle]
+	bcc -> rww_AND
+	rnw -> rww_AND
+	rww_AND -> rww [label=0]
+	sbd_AND [label=AND color=chartreuse4 shape=triangle]
+	cbs -> sbd_AND
+	pfr -> sbd_AND
+	sbd_AND -> sbd [label=0]
+	sbs_AND [label=AND color=chartreuse4 shape=triangle]
+	x22 -> sbs_AND
+	y22 -> sbs_AND
+	sbs_AND -> sbs [label=0]
+	shr_AND [label=AND color=chartreuse4 shape=triangle]
+	x37 -> shr_AND
+	y37 -> shr_AND
+	shr_AND -> shr [label=0]
+	sjg_OR [label=OR color=darkblue shape=invtriangle]
+	mqc -> sjg_OR
+	pcq -> sjg_OR
+	sjg_OR -> sjg [label=0]
+	skg_XOR [label=XOR color=coral1 shape=doublecircle]
+	x12 -> skg_XOR
+	y12 -> skg_XOR
+	skg_XOR -> skg [label=0]
+	smc_XOR [label=XOR color=coral1 shape=doublecircle]
+	x25 -> smc_XOR
+	y25 -> smc_XOR
+	smc_XOR -> smc [label=0]
+	smh_AND [label=AND color=chartreuse4 shape=triangle]
+	npn -> smh_AND
+	vrp -> smh_AND
+	smh_AND -> smh [label=0]
+	spm_AND [label=AND color=chartreuse4 shape=triangle]
+	x15 -> spm_AND
+	y15 -> spm_AND
+	spm_AND -> spm [label=0]
+	svb_XOR [label=XOR color=coral1 shape=doublecircle]
+	x36 -> svb_XOR
+	y36 -> svb_XOR
+	svb_XOR -> svb [label=0]
+	svf_XOR [label=XOR color=coral1 shape=doublecircle]
+	x15 -> svf_XOR
+	y15 -> svf_XOR
+	svf_XOR -> svf [label=0]
+	tdg_AND [label=AND color=chartreuse4 shape=triangle]
+	x19 -> tdg_AND
+	y19 -> tdg_AND
+	tdg_AND -> tdg [label=0]
+	thq_XOR [label=XOR color=coral1 shape=doublecircle]
+	x21 -> thq_XOR
+	y21 -> thq_XOR
+	thq_XOR -> thq [label=0]
+	tkd_AND [label=AND color=chartreuse4 shape=triangle]
+	x43 -> tkd_AND
+	y43 -> tkd_AND
+	tkd_AND -> tkd [label=0]
+	tmt_AND [label=AND color=chartreuse4 shape=triangle]
+	x41 -> tmt_AND
+	y41 -> tmt_AND
+	tmt_AND -> tmt [label=0]
+	tpj_OR [label=OR color=darkblue shape=invtriangle]
+	dhg -> tpj_OR
+	jqg -> tpj_OR
+	tpj_OR -> tpj [label=0]
+	tvb_AND [label=AND color=chartreuse4 shape=triangle]
+	kvn -> tvb_AND
+	wjp -> tvb_AND
+	tvb_AND -> tvb [label=0]
+	tvh_AND [label=AND color=chartreuse4 shape=triangle]
+	fsw -> tvh_AND
+	svb -> tvh_AND
+	tvh_AND -> tvh [label=0]
+	vbm_XOR [label=XOR color=coral1 shape=doublecircle]
+	x43 -> vbm_XOR
+	y43 -> vbm_XOR
+	vbm_XOR -> vbm [label=0]
+	vdd_AND [label=AND color=chartreuse4 shape=triangle]
+	jpb -> vdd_AND
+	qjc -> vdd_AND
+	vdd_AND -> vdd [label=0]
+	vds_AND [label=AND color=chartreuse4 shape=triangle]
+	ckm -> vds_AND
+	hrn -> vds_AND
+	vds_AND -> vds [label=0]
+	vjj_OR [label=OR color=darkblue shape=invtriangle]
+	jqj -> vjj_OR
+	qvr -> vjj_OR
+	vjj_OR -> vjj [label=0]
+	vmf_AND [label=AND color=chartreuse4 shape=triangle]
+	x28 -> vmf_AND
+	y28 -> vmf_AND
+	vmf_AND -> vmf [label=0]
+	vmj_AND [label=AND color=chartreuse4 shape=triangle]
+	x03 -> vmj_AND
+	y03 -> vmj_AND
+	vmj_AND -> vmj [label=0]
+	vmq_OR [label=OR color=darkblue shape=invtriangle]
+	nwq -> vmq_OR
+	tvh -> vmq_OR
+	vmq_OR -> vmq [label=0]
+	vrp_OR [label=OR color=darkblue shape=invtriangle]
+	vdd -> vrp_OR
+	wfh -> vrp_OR
+	vrp_OR -> vrp [label=0]
+	vsm_AND [label=AND color=chartreuse4 shape=triangle]
+	x09 -> vsm_AND
+	y09 -> vsm_AND
+	vsm_AND -> vsm [label=0]
+	vvb_AND [label=AND color=chartreuse4 shape=triangle]
+	msm -> vvb_AND
+	nrr -> vvb_AND
+	vvb_AND -> vvb [label=0]
+	vvt_AND [label=AND color=chartreuse4 shape=triangle]
+	x17 -> vvt_AND
+	y17 -> vvt_AND
+	vvt_AND -> vvt [label=0]
+	wcj_OR [label=OR color=darkblue shape=invtriangle]
+	smh -> wcj_OR
+	whh -> wcj_OR
+	wcj_OR -> wcj [label=0]
+	wfh_AND [label=AND color=chartreuse4 shape=triangle]
+	x31 -> wfh_AND
+	y31 -> wfh_AND
+	wfh_AND -> wfh [label=0]
+	whh_AND [label=AND color=chartreuse4 shape=triangle]
+	x32 -> whh_AND
+	y32 -> whh_AND
+	whh_AND -> whh [label=0]
+	wjg_OR [label=OR color=darkblue shape=invtriangle]
+	dsm -> wjg_OR
+	jrp -> wjg_OR
+	wjg_OR -> wjg [label=1]
+	wjp_OR [label=OR color=darkblue shape=invtriangle]
+	hgj -> wjp_OR
+	vds -> wjp_OR
+	wjp_OR -> wjp [label=0]
+	wjv_AND [label=AND color=chartreuse4 shape=triangle]
+	rpv -> wjv_AND
+	wpq -> wjv_AND
+	wjv_AND -> wjv [label=1]
+	wmg_AND [label=AND color=chartreuse4 shape=triangle]
+	hmw -> wmg_AND
+	vmq -> wmg_AND
+	wmg_AND -> wmg [label=0]
+	wpq_XOR [label=XOR color=coral1 shape=doublecircle]
+	x05 -> wpq_XOR
+	y05 -> wpq_XOR
+	wpq_XOR -> wpq [label=1]
+	wpr_AND [label=AND color=chartreuse4 shape=triangle]
+	dcn -> wpr_AND
+	fgg -> wpr_AND
+	wpr_AND -> wpr [label=0]
+	z00_XOR [label=XOR color=coral1 shape=doublecircle]
+	x00 -> z00_XOR
+	y00 -> z00_XOR
+	z00_XOR -> z00 [label=0]
+	z01_XOR [label=XOR color=coral1 shape=doublecircle]
+	mtd -> z01_XOR
+	ppj -> z01_XOR
+	z01_XOR -> z01 [label=0]
+	z02_XOR [label=XOR color=coral1 shape=doublecircle]
+	jpq -> z02_XOR
+	wjg -> z02_XOR
+	z02_XOR -> z02 [label=0]
+	z03_XOR [label=XOR color=coral1 shape=doublecircle]
+	gfc -> z03_XOR
+	hsj -> z03_XOR
+	z03_XOR -> z03 [label=0]
+	z04_XOR [label=XOR color=coral1 shape=doublecircle]
+	bqv -> z04_XOR
+	fdk -> z04_XOR
+	z04_XOR -> z04 [label=0]
+	z05_XOR [label=XOR color=coral1 shape=doublecircle]
+	rpv -> z05_XOR
+	wpq -> z05_XOR
+	z05_XOR -> z05 [label=0]
+	z06_XOR [label=XOR color=coral1 shape=doublecircle]
+	chd -> z06_XOR
+	rqd -> z06_XOR
+	z06_XOR -> z06 [label=1]
+	z07_XOR [label=XOR color=coral1 shape=doublecircle]
+	ckm -> z07_XOR
+	hrn -> z07_XOR
+	z07_XOR -> z07 [label=0]
+	z08_XOR [label=XOR color=coral1 shape=doublecircle]
+	kvn -> z08_XOR
+	wjp -> z08_XOR
+	z08_XOR -> z08 [label=0]
+	z09_XOR [label=XOR color=coral1 shape=doublecircle]
+	bfv -> z09_XOR
+	cpt -> z09_XOR
+	z09_XOR -> z09 [label=0]
+	z10_XOR [label=XOR color=coral1 shape=doublecircle]
+	psj -> z10_XOR
+	rqp -> z10_XOR
+	z10_XOR -> z10 [label=0]
+	z11_XOR [label=XOR color=coral1 shape=doublecircle]
+	dnn -> z11_XOR
+	hrd -> z11_XOR
+	z11_XOR -> z11 [label=0]
+	z12_XOR [label=XOR color=coral1 shape=doublecircle]
+	hwd -> z12_XOR
+	skg -> z12_XOR
+	z12_XOR -> z12 [label=0]
+	z13_XOR [label=XOR color=coral1 shape=doublecircle]
+	bcc -> z13_XOR
+	rnw -> z13_XOR
+	z13_XOR -> z13 [label=0]
+	z14_XOR [label=XOR color=coral1 shape=doublecircle]
+	ftr -> z14_XOR
+	mcw -> z14_XOR
+	z14_XOR -> z14 [label=0]
+	z15_XOR [label=XOR color=coral1 shape=doublecircle]
+	rjn -> z15_XOR
+	svf -> z15_XOR
+	z15_XOR -> z15 [label=0]
+	z16_XOR [label=XOR color=coral1 shape=doublecircle]
+	bqc -> z16_XOR
+	mdd -> z16_XOR
+	z16_XOR -> z16 [label=0]
+	z17_XOR [label=XOR color=coral1 shape=doublecircle]
+	dtt -> z17_XOR
+	qgt -> z17_XOR
+	z17_XOR -> z17 [label=0]
+	z18_XOR [label=XOR color=coral1 shape=doublecircle]
+	ffh -> z18_XOR
+	gdw -> z18_XOR
+	z18_XOR -> z18 [label=0]
+	z19_XOR [label=XOR color=coral1 shape=doublecircle]
+	fvw -> z19_XOR
+	ndj -> z19_XOR
+	z19_XOR -> z19 [label=0]
+	z20_XOR [label=XOR color=coral1 shape=doublecircle]
+	msm -> z20_XOR
+	nrr -> z20_XOR
+	z20_XOR -> z20 [label=0]
+	z21_XOR [label=XOR color=coral1 shape=doublecircle]
+	bmg -> z21_XOR
+	thq -> z21_XOR
+	z21_XOR -> z21 [label=0]
+	z22_XOR [label=XOR color=coral1 shape=doublecircle]
+	fsf -> z22_XOR
+	nwg -> z22_XOR
+	z22_XOR -> z22 [label=0]
+	z23_XOR [label=XOR color=coral1 shape=doublecircle]
+	bnv -> z23_XOR
+	dqr -> z23_XOR
+	z23_XOR -> z23 [label=0]
+	z24_XOR [label=XOR color=coral1 shape=doublecircle]
+	jdw -> z24_XOR
+	sjg -> z24_XOR
+	z24_XOR -> z24 [label=0]
+	z25_XOR [label=XOR color=coral1 shape=doublecircle]
+	jvp -> z25_XOR
+	smc -> z25_XOR
+	z25_XOR -> z25 [label=0]
+	z26_XOR [label=XOR color=coral1 shape=doublecircle]
+	mhf -> z26_XOR
+	phs -> z26_XOR
+	z26_XOR -> z26 [label=0]
+	z27_XOR [label=XOR color=coral1 shape=doublecircle]
+	knv -> z27_XOR
+	tpj -> z27_XOR
+	z27_XOR -> z27 [label=0]
+	z28_XOR [label=XOR color=coral1 shape=doublecircle]
+	fmd -> z28_XOR
+	hjc -> z28_XOR
+	z28_XOR -> z28 [label=0]
+	z29_XOR [label=XOR color=coral1 shape=doublecircle]
+	dcn -> z29_XOR
+	fgg -> z29_XOR
+	z29_XOR -> z29 [label=0]
+	z30_XOR [label=XOR color=coral1 shape=doublecircle]
+	fbm -> z30_XOR
+	hgq -> z30_XOR
+	z30_XOR -> z30 [label=0]
+	z31_XOR [label=XOR color=coral1 shape=doublecircle]
+	jpb -> z31_XOR
+	qjc -> z31_XOR
+	z31_XOR -> z31 [label=0]
+	z32_XOR [label=XOR color=coral1 shape=doublecircle]
+	npn -> z32_XOR
+	vrp -> z32_XOR
+	z32_XOR -> z32 [label=0]
+	z33_XOR [label=XOR color=coral1 shape=doublecircle]
+	nct -> z33_XOR
+	wcj -> z33_XOR
+	z33_XOR -> z33 [label=0]
+	z34_XOR [label=XOR color=coral1 shape=doublecircle]
+	htp -> z34_XOR
+	ntg -> z34_XOR
+	z34_XOR -> z34 [label=0]
+	z35_XOR [label=XOR color=coral1 shape=doublecircle]
+	bsk -> z35_XOR
+	pjd -> z35_XOR
+	z35_XOR -> z35 [label=0]
+	z36_XOR [label=XOR color=coral1 shape=doublecircle]
+	fsw -> z36_XOR
+	svb -> z36_XOR
+	z36_XOR -> z36 [label=0]
+	z37_XOR [label=XOR color=coral1 shape=doublecircle]
+	hmw -> z37_XOR
+	vmq -> z37_XOR
+	z37_XOR -> z37 [label=0]
+	z38_XOR [label=XOR color=coral1 shape=doublecircle]
+	djh -> z38_XOR
+	gjb -> z38_XOR
+	z38_XOR -> z38 [label=0]
+	z39_XOR [label=XOR color=coral1 shape=doublecircle]
+	nhq -> z39_XOR
+	vjj -> z39_XOR
+	z39_XOR -> z39 [label=0]
+	z40_XOR [label=XOR color=coral1 shape=doublecircle]
+	bff -> z40_XOR
+	hsh -> z40_XOR
+	z40_XOR -> z40 [label=0]
+	z41_XOR [label=XOR color=coral1 shape=doublecircle]
+	ddf -> z41_XOR
+	pvc -> z41_XOR
+	z41_XOR -> z41 [label=0]
+	z42_XOR [label=XOR color=coral1 shape=doublecircle]
+	kvm -> z42_XOR
+	qcv -> z42_XOR
+	z42_XOR -> z42 [label=0]
+	z43_XOR [label=XOR color=coral1 shape=doublecircle]
+	nqg -> z43_XOR
+	vbm -> z43_XOR
+	z43_XOR -> z43 [label=0]
+	z44_XOR [label=XOR color=coral1 shape=doublecircle]
+	cbs -> z44_XOR
+	pfr -> z44_XOR
+	z44_XOR -> z44 [label=0]
+	z45_OR [label=OR color=darkblue shape=invtriangle]
+	qmh -> z45_OR
+	sbd -> z45_OR
+	z45_OR -> z45 [label=0]
+}
